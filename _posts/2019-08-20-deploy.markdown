@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Blog!"
+title:  "Deployment of Symfony project"
 date:   2019-08-20 17:50:46 +0200
-categories: ops
+categories: devops
 ---
-H2.Deployment process
 
 Symfony folder should contain files
 {% highlight html %}
